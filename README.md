@@ -1,4 +1,4 @@
-It's just a messy version so far, which is the initial one. I will refactor this project later on.
+**It's just a messy version so far, which is the initial one. I will refactor this project later on.**
 
 #  Dependence
 *   Tensorflow=1.14
